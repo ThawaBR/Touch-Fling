@@ -11,12 +11,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Touch-Fling/r
 ```
 ## Features
 
-Touch Fling System: Advanced fling mechanics for effective gameplay
-- Modern GUI: Clean and user-friendly interface with smooth animations
-- Minimize Function: Collapse the GUI to save screen space
-- Real-time Toggle: Instant activation/deactivation of fling feature
-- Visual Feedback: Color-changing buttons and hover effects
-- Draggable Interface: Move the GUI anywhere on your screen
+- Touch Fling System: Advanced fling mechanics for effective gameplay.
+- Anti Fling Protection: Protect yourself from other players' fling attempts.
+- Modern GUI: Clean and user-friendly interface with smooth animations.
+- Minimize Function: Collapse the GUI to save screen space.
+- Real-time Toggle: Instant activation/deactivation of fling feature.
+- Visual Feedback: Color-changing buttons and hover effects.
+- Draggable Interface: Move the GUI anywhere on your screen.
 
 ## Status
 - Version: 1.0.0
