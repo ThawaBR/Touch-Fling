@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Touch-Fling/r
 - Anti Fling Protection: Protect yourself from other players' fling attempts.
 
 ## Status
-- Version: 1.0.0
+- Version: 1.1.0
 
 ## Developers
 - Creator: ThawaBR
