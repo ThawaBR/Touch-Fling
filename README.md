@@ -13,6 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Touch-Fling/r
 
 - Touch Fling System: Advanced fling mechanics for effective gameplay.
 - Anti Fling Protection: Protect yourself from other players' fling attempts.
+- Target Fling: Select specific players to fling with precision targeting.
 
 ## Status
 - Version: 1.1.0
