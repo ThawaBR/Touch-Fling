@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Touch-Fling/r
 - Target Fling: Select specific players to fling with precision targeting.
 
 ## Status
-- Version: 1.1.0
+- Version: 1.2.0
 
 ## Developers
 - Creator: ThawaBR
